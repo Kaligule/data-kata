@@ -40,7 +40,7 @@ For solutions see Pull Requests.
 
 To read about mob programming setup, read 
 
-- [How to configure tech for mob programming](mob-programming.md)
+- [How to configure tech for mob programming](https://github.com/tmylk/data-kata/blob/main/mob-programming.md)
 
 ## Credit
 
